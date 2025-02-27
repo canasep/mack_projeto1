@@ -1,0 +1,1 @@
+O projeto visa análise de dados de uma empresa ou institiuição.
