@@ -65,3 +65,8 @@ Questões que surgiram durante a exploração dos dados:
 5. Sazonalidade deverá ser analisada?
 
 O dataset está disponível neste repositório para fins de estudo e colaboração.
+
+Link da Apresentação do Projeto
+
+https://youtu.be/UlVOzcZBCk4
+
